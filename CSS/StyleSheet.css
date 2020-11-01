@@ -1,0 +1,37 @@
+h1{
+	background: #0000003d;
+	text-transform: uppercase;
+	color:#ffd700;	
+}
+
+
+h2{
+	background: #0000003d;
+	color:#ffd700;
+	text-transform: uppercase;
+
+}
+
+body{
+	background-color: #add8e6
+
+}
+
+td{
+	color: #ffd700;
+	text-transform: uppercase;
+	background: #0000003d
+}
+
+a{
+	color:#ffd700;
+	text-transform: normal;
+	background: #0000003d;
+}
+
+img{
+	width:600px;
+	height:500px;
+
+
+}
